@@ -4,7 +4,10 @@
 *	The objective of the project is to analyze Vrinda store and create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 *	The outcome of this analysis will help the vrinda store make informed decisions to enhance its business strategies.
 ## Tools and Technologies:
-- **Advanced Excel**:
+* Advanced Excel
+* Data Cleaning
+* Data Processing
+* Data Analysis & Visualization
 ## Queries of the Project:
 1. Compare the sales and orders using single chart. On month basis
 2. Which month got the highest sales and orders?
